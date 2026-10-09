@@ -6,12 +6,12 @@
   "author": "Ruler4396",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ruler4396/dsh-shredder.git"
+    "url": "git+https://github.com/LEEKINBUN-dsh-tools/dsh-shredder.git"
   },
   "bugs": {
-    "url": "https://github.com/Ruler4396/dsh-shredder/issues"
+    "url": "https://github.com/LEEKINBUN-dsh-tools/dsh-shredder/issues"
   },
-  "homepage": "https://github.com/Ruler4396/dsh-shredder#readme",
+  "homepage": "https://github.com/LEEKINBUN-dsh-tools/dsh-shredder#readme",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
